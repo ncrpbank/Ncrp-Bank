@@ -1,2 +1,1 @@
-# Ncrp-Bank
-Bank
+Das ist fur ein rp server
